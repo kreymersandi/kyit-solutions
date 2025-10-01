@@ -1,1 +1,0 @@
-console.log('KY IT Solutions site loaded.');
